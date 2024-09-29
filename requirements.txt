@@ -5,4 +5,5 @@ scikit-learn
 xgboost
 scipy
 streamlit
-
+streamlit-authenticator
+pyyaml
