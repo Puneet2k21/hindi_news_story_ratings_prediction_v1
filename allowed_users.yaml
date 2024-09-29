@@ -8,34 +8,6 @@ credentials:
       name: "Shruti Sah"
       password: "$2b$12$U8P1ha0o6klHtUs02sy5Ae3ORztADX/qalUan16GossMUa5ucDQxO"
       role: "user"
-    ranjit.kumar@timesgroup.com:
-      name: "Ranjit Kumar"
-      password: "$2b$12$MvdHWk440pixvzCvXMXMBukHr074uylEd.5OxcKS2jaSDk/Z1aXJ."
-      role: "user"
-    satya.prakash1@timesgroup.com:
-      name: "Satya Prakash"
-      password: "$2b$12$0rN713ztauN1Zh5jZlLMxO2eG0WNlkw6X75o3XXf3v8mfjWsQ5n/q"
-      role: "user"
-    c-sushant.sinha@timesgroup.com:
-      name: "Sushant Sinha"
-      password: "$2b$12$q3QJQQHh9Kdzk4KaoK241u5TGry1YdES9NQZDryyw1ZPZXUb3RjAa"
-      role: "user"
-    ashwin.vyas@timesgroup.com:
-      name: "Ashwin Vyas"
-      password: "$2b$12$eto8XIWlyzmviKKom4eBDOe6JtCh0HO7mcS1Bd.RtnlCfSC5GIQKu"
-      role: "user"
-    harini.venkatesan@timesgroup.com:
-      name: "Harini Venkatesan"
-      password: "$2b$12$azFei4Zen/NUL4qrBTEgJe11IxxFOl0AQ87IARCoQ63sorYNylXkW"
-      role: "user"
-    rahul.dhadve@timesgroup.com:
-      name: "Rahul Dhadve"
-      password: "$2b$12$bfmjhaT1sAPpPmYscQPnZemQrOjjpp9bo8VsGiWpmUGfjJ4LGIjqi"
-      role: "user"
-    chandan.roy@timesgroup.com:
-      name: "Chandan Roy"
-      password: "$2b$12$aLDfR/Ic4RCoGv/DNm5WrO/Ffm8rQhr.yBdMnB/qJ7jHRpDFt//0i"
-      role: "user"
-
+    
 blocked_users:
   - preraksah0108@gmail.com
