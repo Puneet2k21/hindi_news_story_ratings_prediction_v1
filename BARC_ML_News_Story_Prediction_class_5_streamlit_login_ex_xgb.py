@@ -6,7 +6,7 @@ import pickle
 import datetime
 
 # Load the YAML configuration file
-with open(r"D:\Puneet\99 Office draft work\1 Lrn\3 April 2024 to March 2025\1 BARC Python Codes and files\Streamlit3_ex_xgb\allowed_users.yaml") as file:
+with open("allowed_users.yaml") as file:
     config = yaml.safe_load(file)
 
 # Load the trained Voting Classifier model
@@ -140,7 +140,7 @@ elif authentication_status == None:
 
 # Log user activity (optional)
 def log_user_activity(username):
-    with open(r"D:\Puneet\99 Office draft work\1 Lrn\3 April 2024 to March 2025\1 BARC Python Codes and files\Streamlit3_ex_xgb\user_logs.txt", "a") as log_file:
+    with open("user_logs.txt", "a") as log_file:
         log_file.write(f"{datetime.datetime.now()} - {username} logged in\n")
 
 if authentication_status:
