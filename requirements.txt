@@ -1,7 +1,7 @@
-pandas
-numpy
+pandas==2.0.3
+numpy==1.24.3
 scikit-learn==1.3.0
-scipy
-streamlit
+scipy==1.11.1
+streamlit==1.38.0
 streamlit-authenticator
 pyyaml
