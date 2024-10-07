@@ -1,0 +1,20 @@
+credentials:
+  usernames:
+    puneet2k21@yahoo.com:
+      name: "Puneet Sah"
+      password: "$2b$12$t/3puaXFrj8oDpWDAYnT7uKqO39UaZuAUSor.mkTpXQOhWeSwUUuW"
+      role: "admin"
+      email: "puneet2k21@yahoo.com"  # Add email field
+    dr.shruti.sah@gmail.com:
+      name: "Shruti Sah"
+      password: "$2b$12$U8P1ha0o6klHtUs02sy5Ae3ORztADX/qalUan16GossMUa5ucDQxO"
+      role: "user"
+      email: "dr.shruti.sah@gmail.com"  # Add email field
+    puneet2k21@gmail.com:
+      name: "Puneet Sah"
+      password: "$2b$12$t/3puaXFrj8oDpWDAYnT7uKqO39UaZuAUSor.mkTpXQOhWeSwUUuW"
+      role: "admin"
+      email: "puneet2k21@gmail.com"  # Add email field
+
+blocked_users:
+  - preraksah0108@gmail.com
