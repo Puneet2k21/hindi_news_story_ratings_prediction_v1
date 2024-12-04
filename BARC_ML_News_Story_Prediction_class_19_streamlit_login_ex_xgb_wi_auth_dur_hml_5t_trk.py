@@ -59,9 +59,12 @@ authenticator = stauth.Authenticate(
 
 # Add Login Form
 
-login_result = authenticator.login()	
+login_result = authenticator.login()
 
 if st.session_state['authentication_status']:
+    # Log the user login data to Google Sheets
+    log_user_login(st.session_state["username"])
+    
     authenticator.logout()
     st.write(f'Welcome *{st.session_state["name"]}*')
 
